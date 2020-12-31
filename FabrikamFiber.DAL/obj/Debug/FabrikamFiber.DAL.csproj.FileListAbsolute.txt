@@ -1,0 +1,12 @@
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll.config
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.pdb
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\bin\Debug\EntityFramework.dll
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\bin\Debug\EntityFramework.xml
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csprojAssemblyReference.cache
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csproj.CoreCompileInputs.cache
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csproj.CopyComplete
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.dll
+D:\aci-rp-sf\VS2015\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.pdb
